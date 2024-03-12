@@ -13,4 +13,16 @@ The project requirements for this section include the use of the Python IDE and 
 
 D)	System Implementation 
 This section shows how the RSA encryption and decryption was implemented in both the Alice and Bob application. Below attached are the python codes that implement the system required. 
-![Uploading image.png…]()
+
+E)	System Output
+**Alice Side**
+<img width="452" alt="image" src="https://github.com/noordinofficial/IMPLEMENTATION-OF-RSA-OVER-TCP/assets/135832998/89dd6623-4e6b-4f01-a110-5c61b0ed5e70">
+**Bob Side**
+<img width="452" alt="image" src="https://github.com/noordinofficial/IMPLEMENTATION-OF-RSA-OVER-TCP/assets/135832998/9709eb04-eaf2-4aec-b184-f84a6d0782a3">
+
+
+
+
+
+
+
